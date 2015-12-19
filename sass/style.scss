@@ -219,16 +219,17 @@ body {
 			}
 		}
 	}
-	@media (max-width: 768px){
-		#slider-wrapper{
-			height: 110px;
-		}
-	}
 	@media (min-width:800px) and (max-width: 980px){
 		#slider-wrapper{
 			height: 300px;
 		}
 	}
+	@media (max-width: 768px){
+		#slider-wrapper{
+			height: 110px;
+		}
+	}
+
 /* HEADER */
 	#header{
 		padding: 0px 20px;
